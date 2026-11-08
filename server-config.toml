@@ -1,0 +1,9 @@
+[server]
+bind_address = "127.0.0.1:19132"
+online_mode = true
+default_chunk_radius = 24
+max_chunk_radius = 24
+
+[world.generator]
+kind = "bedrock"
+seed = 12345
